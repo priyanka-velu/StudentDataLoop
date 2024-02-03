@@ -1,0 +1,12 @@
+Name: Austin Smith
+Address: 2345 W Sunset St
+GPA: 3.38
+
+Name: Sam Williams
+Address: 3456 S Flower St
+GPA: 4.0
+
+Name: Xavier Johnson
+Address: 1234 N Breeze St
+GPA: 3.92
+
